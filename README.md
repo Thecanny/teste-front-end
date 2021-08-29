@@ -3,7 +3,7 @@
 
 <p align="center">Para fazer esse teste eu usei o Create React App</p>
 <p align="center">O teste está hospedado no endereço: <a href="ttps://teste-front-end-corebiz.netlify.app/"></a>https://teste-front-end-corebiz.netlify.app/</p>
-<p align="center">Para Rodar o projeto só rodar `yarn start`</p>
+<p align="center">Para Rodar o projeto só instalar com <strong>yarn</strong> e depois rodar <strong>yarn start</strong></p>
 
 <h2 align="center"> Dependencias que utilizei</h2>
 
